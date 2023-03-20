@@ -1,0 +1,1 @@
+../../solexs_codes/ospex/idl/solexs_read_data.pro
